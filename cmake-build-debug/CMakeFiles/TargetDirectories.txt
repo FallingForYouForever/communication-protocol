@@ -1,0 +1,3 @@
+D:/MyPro/Protocol/cmake-build-debug/CMakeFiles/Protocol.dir
+D:/MyPro/Protocol/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MyPro/Protocol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
